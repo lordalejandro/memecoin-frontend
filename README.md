@@ -1,6 +1,6 @@
-# Cadena Bank DAPP
+# MetroCoin - ERC20 Token
 
-This is the completed code for the Bank DAPP.
+ERC20 Token - Cadena Project 
 
 ## To Install
 
